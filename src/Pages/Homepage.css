@@ -1,0 +1,4 @@
+.card-container::-webkit-scrollbar,
+.homepage::-webkit-scrollbar{
+    display: none;
+}
